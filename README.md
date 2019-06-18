@@ -44,7 +44,7 @@ In order to ensure our data was free of any discrepancies, we cleaned any null (
 Analyzing the top 500 posts of all time on _r/marvelstudios_ revealed some interesting insights about Reddit posts. In figure 1, the scatter plot shows that the number of comments don’t necessarily increase with posts that have a higher net score. 
 
 Figure 1: Scatter plot of number of comments and net score of top 500 posts
-![Figure 1](img/Scatterplot.png)
+![Figure 1](img/ScatterPlot.png)
 
 The number of comments stays fairly unchanged in the range of posts scores of 20,000 and 60,000. Our initial hypothesis was to see a directly proportional relationship between the number of comments and score. We observed a similar scatter plot for r/all on a larger scale. 
 
@@ -53,7 +53,7 @@ Next, we analyzed recurring users whose posts made it to the top 500 of all time
 
 Our definition of an Influencer came from analyzing this bar graph. We realized that the cut-off for being influencer each subreddit would be subjective to the size of the subreddit and how often submissions are made. The cut-off we decided for this particular subreddit was 2 or more submissions in top posts of all time. 
 
-![Figure 2](img/BarGraph.png)
+![Figure 2](img/Bargraph.png)
 
 **Part 3**<br>
 Next, we analyzed where else did these top posters had influence by compiling a list of authors that appeared more than once on other subreddits. 
